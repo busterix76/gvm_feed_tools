@@ -1,5 +1,5 @@
 # gvm_feed_tools
-Tools for managing gvm feeds
+Tools for managing gvm feeds with GVM 20.08
 
 
 update-gvm-feeds.sh
